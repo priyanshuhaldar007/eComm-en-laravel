@@ -23,6 +23,16 @@
         padding-top: 100px;
         
     }
+    .slider-img{
+        height:400px !important;
+
+    }
+    .custom-product{
+        height: 600px;
+    }
+    .slider-text{
+        background-color: #35443585;
+    }
 </style>
 </head>
 <body>
